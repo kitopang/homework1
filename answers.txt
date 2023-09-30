@@ -1,0 +1,3 @@
+What is a remote repository? 
+
+A remote repository is a repository stored in the cloud/internet. They allow for multiple developers to work on a single project at once, as well as provide a safe backup. Some examples of remote repositories are Github and Gitlab. When you create a local git repository, you connect up with a remote one and push your changes to access them. You can also clone & pull from remote repositories if you want to sync up with an existing one.
